@@ -1,0 +1,2 @@
+# Assessing-Success-Factors-for-the-Adoption-of-Alternative-Fuels-in-Maritime-Transport
+The project explores what drives the use of alternative fuels in maritime transport, focusing on factors like cost, regulations, social acceptance, and tech advancements. Using ENTROPY and ARAS methods, it assesses environmental impact, policy effects, and economic viability for fuels like hydrogen, LNG, and biofuels in the shipping industry.
